@@ -3,11 +3,11 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif)
 
-- 🔭 I’m currently working on protein language models and structural bioinformatics
-- 🧬 I’m exploring computational protein design and protein–protein interactions
-- 🧪 I’m especially interested in connecting computational predictions with experimental outcomes
-- 💻 I mainly work with Python, PyTorch, AlphaFold, ESM-2, ProtBERT, ESMFold, and ProteinMPNN
-- 📫 How to reach me **ercangulce23@gmail.com**
+- 🔭 I’m currently working on **machine learning for biomedical data and computational biology**
+- 🧬 My research interests include **AI for medicine, structural bioinformatics, and protein–protein interactions**
+- 🧪 I’m interested in applying machine learning to **biological and medical research questions**
+- 💻 I work mainly with **Python and R, with a focus on machine learning and bioinformatics workflows**
+- 📫 How to reach me: [**ercangulce23@gmail.com**](mailto:ercangulce23@gmail.com)
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
 
